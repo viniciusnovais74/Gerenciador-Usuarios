@@ -1,2 +1,3 @@
-# projeto-gerenciamento-de-usuarios
-Projeto de Usuarios com REST API feito
+# Gerenciador de Usuarios com RestAPI
+
+### Abra as pastas FrontEnd & BackEnd e leia o arquivo README.md
